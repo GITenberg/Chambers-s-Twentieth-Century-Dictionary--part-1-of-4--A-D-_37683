@@ -1,0 +1,27 @@
+_repo: Chambers-s-Twentieth-Century-Dictionary--part-1-of-4--A-D-_37683
+_version: 0.1.0
+alternative_title: 'Chambers''s 20th Century Dictionary (part 1 of 4: A-D)'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Davidson, Thomas
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '38990'
+    url: http://www.gutenberg.org/2009/agents/38990
+description: ''
+gutenberg_issued: '2011-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Dictionaries'
+title: 'Chambers''s Twentieth Century Dictionary (part 1 of 4: A-D)'
+url: http://www.gutenberg.org/ebooks/37683
