@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38990'
     url: http://www.gutenberg.org/2009/agents/38990
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37683#Chambers-s-Twentieth-Century-Dictionary--part-1-of-4--A-D-
 gutenberg_issued: '2011-10-09'
 gutenberg_type: Text
 identifiers:
